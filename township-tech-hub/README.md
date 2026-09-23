@@ -68,3 +68,6 @@ A GitHub Actions workflow (`.github/workflows/ci.yml`) runs both automatically o
 ## Notes
 
 This is a front-end-only prototype (no backend, no database, no real course content or accounts). It's meant as a visual and messaging foundation to build on — next steps would typically include real learner sign-in, actual lesson content, and the progress/badge tracking described in the original concept but not yet built here.
+
+
+WTC-VBLZWR6A
